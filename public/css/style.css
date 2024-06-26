@@ -8,7 +8,7 @@
 
 
 /* Base Styles */
-.body {
+body {
     line-height: 1.8;
     font-family: Arial, sans-serif;
     color: var(--text-color);
