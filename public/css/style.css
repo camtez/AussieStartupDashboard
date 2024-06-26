@@ -1,0 +1,45 @@
+/* Colors */
+:root {
+    --primary-color: #B5D1CC;
+    --background-color: #191919;
+    --text-color: white;
+    --border-color: #ffffff37;
+}
+
+
+/* Base Styles */
+body {
+    line-height: 1;
+    font-family: Arial, sans-serif;
+    color: var(--text-color);
+    background-color: var(--background-color);
+}
+
+a {
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+/* Layout */
+header {
+    background: #f8f9fa;
+    padding: 20px;
+}
+
+footer {
+    background: #343a40;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Components */
+.button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
