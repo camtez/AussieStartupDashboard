@@ -9,7 +9,7 @@
 
 /* Base Styles */
 body {
-    line-height: 1;
+    line-height: 1.8;
     font-family: Arial, sans-serif;
     color: var(--text-color);
     background-color: var(--background-color);
