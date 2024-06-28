@@ -69,8 +69,8 @@ a {
     background-color: #1d1d1d;
     border-radius: 9px;
     flex: none;
-    padding: 8px 28px;
-    font-size: 14px;
+    padding: 8px 12px;
+    font-size: 14px !important;
     font-weight: 500;
     line-height: 1.5;
     transition: color .2s, box-shadow .2s, transform .2s, border-color .2s, color .2s, background-color .2s;
